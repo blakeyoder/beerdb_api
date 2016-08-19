@@ -1,4 +1,4 @@
-# BeerDBApi
+# BreweryDB API Wrapper
 
 This is a simple wrapper for the [Brewery DB API](http://www.brewerydb.com/) 
 
